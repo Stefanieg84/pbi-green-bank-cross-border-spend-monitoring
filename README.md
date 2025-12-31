@@ -9,6 +9,16 @@ The project demonstrates **best-practice dimensional modelling**, **advanced DAX
 
 ---
 
+## Installation Guide & Requirements
+
+Please download the ZIP file and extract it to your preferred location.
+
+You will need to have Power BI (version as at 29-12-2025) and a WIndows Operating System (Windows 11 or newer).
+
+
+
+---
+
 ## 🔍 Business Objective
 
 Provide a clear, auditable way to answer core risk and governance questions:
