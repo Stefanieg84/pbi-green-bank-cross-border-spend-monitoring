@@ -8,6 +8,11 @@ The focus is on **risk monitoring**, **annual limit breaches**, and **executive-
 The project demonstrates **best-practice dimensional modelling**, **advanced DAX**, and **defensible KPI design**, with particular emphasis on correct evaluation grain and auditability.
 
 ---
+## Preview Screenshots
+
+![Executive Overview](<screenshot_previews/Green Bank Dashboard Page 1.jpeg>) ![Customer Risk](<screenshot_previews/Green Bank Dashboard Page 2.jpeg>) ![Breach Control Effectiveness](<screenshot_previews/Green Bank Dashboard Page 3.jpeg>) ![AI Q&A Chat](<screenshot_previews/Green Bank Dashboard Page 4.jpeg>)
+
+---
 
 ## Installation Guide & Requirements
 
