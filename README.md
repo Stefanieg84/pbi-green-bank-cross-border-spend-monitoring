@@ -19,7 +19,7 @@ The project demonstrates **best-practice dimensional modelling**, **advanced DAX
 
 Please download the ZIP file and extract it to your preferred location on your local device.
 
-You will need to have Power BI (version as at 29-12-2025) and a Windows Operating System (Windows 11 or newer).
+You will need to have Power BI (version as at 29-12-2025) and a Windows Operating System (Windows 11 or newer) installed on your device (laptop or PC).
 
 I wanted to share a live link, but this is not an option as I do not have the premium organisation license.
 
