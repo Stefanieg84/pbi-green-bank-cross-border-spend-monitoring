@@ -11,11 +11,15 @@ The project demonstrates **best-practice dimensional modelling**, **advanced DAX
 
 ## Installation Guide & Requirements
 
-Please download the ZIP file and extract it to your preferred location.
+Please download the ZIP file and extract it to your preferred location on your local device.
 
-You will need to have Power BI (version as at 29-12-2025) and a WIndows Operating System (Windows 11 or newer).
+You will need to have Power BI (version as at 29-12-2025) and a Windows Operating System (Windows 11 or newer).
 
+I wanted to share a live link, but this is not an option as I do not have the premium organisation license.
 
+You should be able to review the full dashboard (including data model, DAX measures and Power Query steps) on your local windows desktop.
+
+For the best experience, and if this is suitable for you, you can publish the dashboard to your private organisation workspace, given that you have a Power BI license (or trial).
 
 ---
 
