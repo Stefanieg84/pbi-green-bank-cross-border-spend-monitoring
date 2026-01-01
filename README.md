@@ -11,6 +11,7 @@ The project demonstrates **best-practice dimensional modelling**, **advanced DAX
 ## Preview Screenshots
 
 ![Executive Overview](<screenshot_previews/Green Bank Dashboard Page 1 - Executive Overview.jpeg>) ![Customer Risk](<screenshot_previews/Green Bank Dashboard Page 2 - Customer Risk.jpeg>) ![Breach Control Effectiveness](<screenshot_previews/Green Bank Dashboard Page 3 - Breach Control Effectiveness.jpeg>) ![Q&A](<screenshot_previews/Green Bank Dashboard Page 4 - Q&A.jpeg>)
+![Semantic Data Model](<Green Bank Dashboard Semantic Data Model - Star Schema.jpeg>)
 
 ---
 
